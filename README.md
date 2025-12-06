@@ -13,7 +13,7 @@ The project explores how preprocessing, feature scaling, and feature correlation
 ---
 
 ## Project Structure
-
+```
 ITCS-3156-Final/
 │
 ├── notebooks/
@@ -30,7 +30,7 @@ ITCS-3156-Final/
 │ └── final_project_report.pdf # Final written project report
 │
 └── README.md
-
+```
 ---
 
 ## Dataset
